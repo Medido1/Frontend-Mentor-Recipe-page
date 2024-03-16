@@ -166,7 +166,7 @@ body {
 
 @media (min-width: 500px){
   .main {
-    padding: 2rem 0;
+    padding: 4rem 0;
   }
   .recipe_page {
     display: flex;
@@ -176,6 +176,7 @@ body {
   }
   .main_img {
     width: 90%;
+    height: 250px;
     margin-top: 1rem;
   }
 }
