@@ -38,7 +38,7 @@
 }
 
 body {
-  background-color: var(--Eggshell);
+  background-color: var(--White);
 }
 
 .main {
@@ -165,6 +165,9 @@ body {
 }
 
 @media (min-width: 500px){
+  body {
+    background-color: var(--Eggshell);
+  }
   .main {
     padding: 4rem 0;
   }
