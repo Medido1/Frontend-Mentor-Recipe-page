@@ -49,7 +49,7 @@ body {
 }
 
 .recipe_page {
-  max-width: 500px;
+  max-width: 550px;
   overflow: hidden;
   background-color: var(--White);
 }
